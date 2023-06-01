@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day1", "Day1", "{4A869069-C5D5-4BC0-A26F-084BFAA646A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "discrimino", "D1\discrimino\discrimino.csproj", "{CAA6EEEB-9D8D-4954-BEA3-544AC9C1277E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA6EEEB-9D8D-4954-BEA3-544AC9C1277E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA6EEEB-9D8D-4954-BEA3-544AC9C1277E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA6EEEB-9D8D-4954-BEA3-544AC9C1277E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA6EEEB-9D8D-4954-BEA3-544AC9C1277E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CAA6EEEB-9D8D-4954-BEA3-544AC9C1277E} = {4A869069-C5D5-4BC0-A26F-084BFAA646A1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB0A90DA-BA93-4A16-B018-D3B0AC217CED}
+	EndGlobalSection
+EndGlobal
